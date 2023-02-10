@@ -5,3 +5,10 @@ App that has been my dream to make since I started to learn coding in 2020, made
 > “Advice is one thing that is freely given away, but watch that you only take what is worth having.”
 >    
 >    -George S. Classon (The Richest man in Babylon)
+
+
+## 🛣️ Roadmap
+
+ - Develop UI features from plans back in 2020
+ - Modernization of design and plans for app
+ - Use of Kotlin language rooting for android 7.0
