@@ -10,5 +10,5 @@ App that has been my dream to make since I started to learn coding in 2020, made
 ## 🛣️ Roadmap
 
  - Develop UI features from plans back in 2020
- - Modernization of design and plans for app
- - Use of Kotlin language rooting for android 7.0
+ - Upgrade of design and plans for app
+ - Use of Kotlin language or in React native for android 7.0
